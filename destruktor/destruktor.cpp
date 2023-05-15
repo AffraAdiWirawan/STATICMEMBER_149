@@ -24,3 +24,5 @@ angka::~angka() {
 	delete[]arr;
 	cout << " Alamat Array Sudah dilepaskan" << endl;
 }
+void angka::isiData() {
+}
