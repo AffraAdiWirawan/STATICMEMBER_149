@@ -11,4 +11,9 @@ public:
 
 		return *this;
 	}
-};
+	string getJudul() 
+	{
+		return this->judul;
+	}
+
+}bukunya;
