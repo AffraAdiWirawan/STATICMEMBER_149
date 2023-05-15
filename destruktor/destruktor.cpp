@@ -25,4 +25,8 @@ angka::~angka() {
 	cout << " Alamat Array Sudah dilepaskan" << endl;
 }
 void angka::isiData() {
+	for (int i = 1; i <= panjang; i++) {
+		cout << i << " = " << arr[i] << endl;
+	}
 }
+
