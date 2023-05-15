@@ -30,3 +30,6 @@ void angka::isiData() {
 	}
 }
 
+void angka::isiData() {
+	
+}
