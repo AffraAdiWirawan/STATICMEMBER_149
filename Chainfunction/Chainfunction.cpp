@@ -1,7 +1,7 @@
 #include <iostream>
 
-using namespacestd;
+using namespace std;
 
 class buku {
-
+	string judul;
 };
